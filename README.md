@@ -40,6 +40,9 @@ So_long helps students learn:
 - Memory leak prevention ⚙️
 - Game logic and state management 🧩
 
+## Compilation
+To run the program, you have to add the mlx library on the root of the repo
+
 ## Demo
 
 Here's a quick demo of the gameplay:
